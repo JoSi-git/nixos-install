@@ -59,7 +59,7 @@ cd /tmp/nixos-install
 Execute the installation script by running:
 
 ```sh
-sh install.sh
+./install.sh
 ```
 
 The script will guide you through the following steps:

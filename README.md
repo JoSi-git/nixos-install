@@ -54,12 +54,6 @@ Change into the repository directory:
 cd /tmp/nixos-install
 ```
 
-Before running the installation script, pull the latest updates:
-
-```sh
-git pull
-```
-
 ### 4. Run the Installation Script
 
 Execute the installation script by running:

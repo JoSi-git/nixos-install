@@ -7,8 +7,6 @@ This repository provides an interactive installation script for NixOS that can b
 
 > **Warning:** This script performs destructive operations. Back up all important data before proceeding.
 
----
-
 ## Overview
 
 The installation process involves the following steps:
@@ -25,8 +23,6 @@ The installation process involves the following steps:
 
 4. **Run the Installation Script:**  
    Execute the provided script and follow the interactive prompts to choose your installation mode and partition configuration.
-
----
 
 ## Detailed Instructions
 
